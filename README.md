@@ -67,5 +67,3 @@ The models were trained using the **Adam optimizer** with **Categorical Crossent
 - **Deploying the model** as a web-based interactive application using Flask or FastAPI.
 
 ---
-
-This report can be added to the **README.md** file in the GitHub repository, making it easier for users to understand the project's objectives and working mechanism. 🚀
